@@ -1,0 +1,15 @@
+import numpy as np
+
+print("np.zeros(6):",np.zeros(6))
+print("np.zeros((2,3)):",np.zeros((2,3)))
+print("np.ones(6):",np.ones(6))
+print("np.ones((2,3)):",np.ones((2,3)))
+print("np.random.random(6):",np.random.random(6))
+print("np.random.random(6):",np.random.random(6))
+print("np.random.random((2,3)):",np.random.random((2,3)))
+print("np.random.seed(1234)")
+np.random.seed(1234)
+print("np.random.random(6):",np.random.random(6))
+print("np.random.seed(1234)")
+np.random.seed(1234)
+print("np.random.random(6):",np.random.random(6))
