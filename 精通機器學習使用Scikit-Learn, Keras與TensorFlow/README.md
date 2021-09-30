@@ -1,3 +1,3 @@
-ºë³q¾÷¾¹¾Ç²ß¨Ï¥ÎScikit-Learn, Keras»PTensorFlow
+ç²¾é€šæ©Ÿå™¨å­¸ç¿’ä½¿ç”¨Scikit-Learn, Kerasèˆ‡TensorFlow
 
 Ref: https://github.com/ageron/handson-ml
